@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Myntkaup is Iceland's most popular cryptocurrency trading platform with roughly 3% of Icelander's as customers. You can sign up via Myntkaup.is or by getting the app in the Appstore/Google Play store.
+Myntkaup is Iceland's most popular cryptocurrency trading platform with roughly 3% of Icelanders as customers. You can sign up via Myntkaup.is or by getting the app in the Appstore/Google Play store.
 
 **Links:**
 
